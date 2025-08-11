@@ -12,7 +12,7 @@ The model is built with "*tensorflow2*", please check the "**requirement.txt**" 
 
 Jupyter Notebook "**biaae_eval**" provide a tutorial for running the model.
 
-Considering using this model? Please cite our paper:
+Finding our model useful? Please cite our paper:
 ```bibtex
 @article{liu2025biaaephoto,
 author={Yuansan Liu, Jeygopi Panisilvam, Peter Dower, Sejeong Kim, James Bailey},
