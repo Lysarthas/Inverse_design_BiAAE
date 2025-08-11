@@ -15,7 +15,7 @@ Jupyter Notebook "**biaae_eval**" provide a tutorial for running the model.
 Considering using this model? Please cite our paper:
 ```bibtex
 @article{liu2025biaaephoto,
-author={Yuansan Liu and Jeygopi Panisilvam and Peter Dower and Sejeong Kim and James Bailey},
+author={Yuansan Liu, Jeygopi Panisilvam, Peter Dower, Sejeong Kim, James Bailey},
 title = {Bidirectional adversarial autoencoders for high precision metasurface design},
 issn = {2770-9019},
 year = {2025},
