@@ -11,3 +11,18 @@ Inverse design of Plasmonic Metasurfaces with [Bidirectional Adversarial AutoEnc
 The model is built with "*tensorflow2*", please check the "**requirement.txt**" and decide which package you need to run the model.
 
 Jupyter Notebook "**biaae_eval**" provide a tutorial for running the model.
+
+Considering using this model? Please cite our paper:
+```bibtex
+@article{liu2025biaaephoto,
+author={Yuansan Liu and Jeygopi Panisilvam and Peter Dower and Sejeong Kim and James Bailey},
+title = {Bidirectional adversarial autoencoders for high precision metasurface design},
+issn = {2770-9019},
+year = {2025},
+doi={10.1063/5.0284338},
+journal = {APL Machine Learning},
+volume = {3},
+number = {3},
+pages = {036110},
+}
+```
